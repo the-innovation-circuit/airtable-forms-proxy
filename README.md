@@ -25,7 +25,7 @@ In HTML form format this would look something along the lines of:
 
 It's important to note, that you will want to avoid a new page being opened on submit as this will return a JSON object. 
 
-Our version of the proxy is hosted at `redacted`. For non-HQ projects, we recommend your own deployment on Vercel with your own Airtable API key as the `AIRTABLE` environment variable.
+Our version of the proxy is hosted on Vercel. For non-HQ projects, we recommend your own deployment on Vercel with your own Airtable API key as the `AIRTABLE` environment variable.
 
 Happy hacking!
 
